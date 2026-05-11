@@ -36,9 +36,9 @@
 
     ls
 
-    chmod 777 DARKey
+    chmod 777 DARKeY
 
-    ./DARKey
+    ./DARKeY
 
 ⚠️
 
