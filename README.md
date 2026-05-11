@@ -2,31 +2,43 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 #how to install in termux or linux operating systems?
 
-   apt update 
+    termux-setup-storage 
+   
+      apt update 
 
 
-   apt upgrade -y
+      apt upgrade -y
 
-   pkg install git -y
-
-
-   pkg install python -y
+      pkg install git -y
 
 
-   pip install requests 
-
-   git clone 
+     pkg install python -y
 
 
-   cd DARKeY
+     pip install requests 
 
-   ls
+     git clone https://github.com/anonmoty/DARKeY.git
 
-   chmod 777 DARKey
 
-   ./DARKey
+    cd DARKeY
+
+    ls
+
+    chmod 777 DARKey
+
+    ./DARKey
 
 ⚠️
 
